@@ -25,6 +25,10 @@ A: iCanText is designed for easier typing — especially helpful for users who p
 **Q: Does iCanText support emoji?**  
 A: You can still access the system emoji keyboard by holding the globe 🌐 icon and selecting it.
 
+## Privacy Policy
+
+[Privacy Policy](privacy.md)
+
 ## 📬 Contact
 
 For help, feedback, or feature requests:
