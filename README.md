@@ -29,6 +29,8 @@ To enable iCanText after installing:
 ## How iCanText can help you text
 
 Run the app from your phone's main screen to try it and configure iCanText the way you wish.  Helpers:
+
+ - Keys are **larger**
  - From the main QWERTY keyboard, swipe down for symbols
  - Swipe up for numbers
  - On the symbols, note the shortcuts on the bottom row. They'll handle ending a sentence and the `'ll`, `'s`, `'r`, `'t`, `'m`, and `'ve` for you
