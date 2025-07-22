@@ -31,8 +31,8 @@ To enable iCanText after installing:
 Run the app from your phone's main screen to try it and configure iCanText the way you wish.  Helpers:
  - From the main QWERTY keyboard, swipe down for symbols
  - Swipe up for numbers
- - On the symbols, note the shortcuts on the bottom row. They'll handle ending a sentence and the `'ll`, `'s`, `'r`, `'t`, `'m`, and 've for you
- - Swipe right for a space, swipe right again for a `. ` (end a sentence)
+ - On the symbols, note the shortcuts on the bottom row. They'll handle ending a sentence and the `'ll`, `'s`, `'r`, `'t`, `'m`, and `'ve` for you
+ - Swipe right for a space, swipe right again for a `. ` (a period + space to end a sentence)
  - Swipe left for a backspace
  - Double swipe down to toggle UPPER/lower case 
 
@@ -42,7 +42,7 @@ Run the app from your phone's main screen to try it and configure iCanText the w
 A: Make sure it's enabled under Settings > General > Keyboard > Keyboards. You may need to restart the app you're typing in.
 
 **Q: Why are the keys so large / swaying?**  
-A: iCanText is designed for easier typing — especially helpful for users who prefer clarity, motion, or better tap targets.
+A: iCanText is designed for easier typing — especially helpful for users who prefer clarity, motion, or better tap targets. The top row of a QWERTY keyboard is a bit longer than the other rows, so it needs to sway to fit with the larger keys.
 
 **Q: Does iCanText support emoji?**  
 A: You can still access the system emoji keyboard by holding the globe 🌐 icon and selecting it.
