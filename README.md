@@ -30,7 +30,7 @@ A: You can still access the system emoji keyboard by holding the globe 🌐 icon
 For help, feedback, or feature requests:
 
 - Open an issue on this GitHub repo  
-- Email the developer: **[youremail@example.com]**
+- Email the developer: **[tbensky@gmail.com]**
 
 ---
 
