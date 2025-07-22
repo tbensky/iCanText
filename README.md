@@ -26,7 +26,7 @@ To enable iCanText after installing:
 > 💡 Full access is optional. iCanText does **not** collect or track your keystrokes or personal data.
 
 
-## How iCanText can help you text
+## ℹ How iCanText can help you text
 
 Run the app from your phone's main screen to try it and configure iCanText the way you wish.  Helpers:
 
