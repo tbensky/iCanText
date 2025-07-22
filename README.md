@@ -42,7 +42,9 @@ Run the app from your phone's main screen to try it and configure iCanText the w
 A: Make sure it's enabled under Settings > General > Keyboard > Keyboards. You may need to restart the app you're typing in.
 
 **Q: Why are the keys so large / swaying?**  
-A: iCanText is designed for easier typing — especially helpful for users who prefer clarity, motion, or better tap targets. The top row of a QWERTY keyboard is a bit longer than the other rows, so it needs to sway to fit with the larger keys.
+A: iCanText is designed for easier typing — especially helpful for users who prefer clarity, motion, or better tap targets. 
+
+The top row of a QWERTY keyboard is a bit longer than the other rows, so it needs to sway to fit with the larger keys.
 
 **Q: Does iCanText support emoji?**  
 A: You can still access the system emoji keyboard by holding the globe 🌐 icon and selecting it.
