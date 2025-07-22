@@ -1,6 +1,6 @@
 # Privacy Policy for iCanText
 
-**Effective Date:** [Insert Today’s Date]
+**Effective Date: 21-July-2025**
 
 Thank you for using **iCanText**, a custom iOS keyboard built for clarity and ease of use. This privacy policy explains how we handle your data — which is simple: we don’t collect any.
 
@@ -50,8 +50,8 @@ iCanText does not knowingly collect data from children — or anyone, for that m
 
 If you have any questions, feel free to reach out:
 
-**Email**: [your-email@example.com]  
-**Support Page**: [https://github.com/yourusername/icantext-support](https://github.com/yourusername/icantext-support)
+**Email**: tbensky@gmail.com  
+**Support Page**: [https://github.com/tbensky/icantext](ttps://github.com/tbensky/icantext])
 
 ---
 
