@@ -2,6 +2,15 @@
 
 Welcome to the official support page for **iCanText**, the smart, swaying keyboard with large, easy-to-tap keys.
 
+## 📖 The story behind iCanText
+
+I am a Gen X tech-saavy computer/phone/device user. I have no problems the use and purpose of all of our devices. I own practically all of Apple's devices and use them daily.  Sometimes I laugh how I have four Apple devices on me at any given time. That said, I cannot text.  I just can't do it.
+
+I cannot text with my two thumbs, so I mostly use my index finger. This works generally horribly. Sometimes it takes me 3-4 tries to form one word properly. Auto-correct rarely helps. Sometimes it autocorrects a word into 3 smaller nonsensical words with spaces in between!  I usually have to manually put in a `'` after `we` to get a `we'll` vs `well`. This takes me forever.   gboard and tracing words on a keyboard didn't help at all.  Also, I simply cannot get used to using suggested words.
+
+Thus `iCanText` was born.  It has larger keys to make a larger target for my index finger.  It uses gestures more and has separate gesture-triggered keyboards for symbols and numbers.  Instead of predicting words, it predicts the _next letter_, which seems more useful for the letter-by-letter nature of texting.
+
+
 ## 🛠 Getting Started
 
 To enable iCanText after installing:
@@ -25,7 +34,7 @@ A: iCanText is designed for easier typing — especially helpful for users who p
 **Q: Does iCanText support emoji?**  
 A: You can still access the system emoji keyboard by holding the globe 🌐 icon and selecting it.
 
-## Privacy Policy
+## 🤐 Privacy Policy
 
 [Privacy Policy](privacy.md)
 
