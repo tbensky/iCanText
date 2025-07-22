@@ -4,9 +4,9 @@ Welcome to the official support page for **iCanText**, the smart, swaying keyboa
 
 ## 📖 The story behind iCanText
 
-I am a Gen X tech-saavy computer/phone/device user. I have no problems the use and purpose of all of our devices. I own practically all of Apple's devices and use them daily.  Sometimes I laugh how I have four Apple devices on me at any given time. That said, I cannot text.  I just can't do it.
+I am a Gen X tech-savvy computer/phone/device user. I have no problems with the use and purpose of all of our devices. I own practically all of Apple's devices and use them daily.  Sometimes I laugh at how I have four Apple devices on me at any given time. That said, I cannot text.  I just can't do it.
 
-I cannot text with my two thumbs. I cannot text with one thumb.  I can't even seem to hold a phone with _both_ hands.  So, I mostly use my index finger. This works generally horribly. 
+I cannot text with my two thumbs. I cannot text with one thumb.  I can't even seem to hold a phone with _both_ hands.  So, I mostly use my right index finger, while holding the phone in my left hand. This works generally horribly. 
 
 Sometimes it takes me 3-4 tries to form **one single word** properly. Auto-correct rarely helps. Sometimes it auto-corrects a word into 3 smaller nonsensical words with spaces in between!  I usually have to manually put in a `'` after `we` to get a `we'll` vs `well`. This takes me forever.   gboard and tracing words on a keyboard didn't help.  Also, I simply cannot get used to using suggested words.  Texting is a very frustrating but necessary and required task.
 
