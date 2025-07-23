@@ -6,7 +6,9 @@ Welcome to the official support page for **iCanText**, the smart, swaying keyboa
 
 I am a Gen X tech-savvy computer/phone/device user. I have no problems with all of the devices we carry around. In my case, I own practically all of Apple's devices and use them daily.  Sometimes I laugh at how I have four Apple devices on me at any given time. That said, I cannot text.  I just can't do it.
 
-I cannot text with my two thumbs. I cannot text with one thumb.  I cannot hold a phone with _both_ hands in a way that keeps my thumbs free.  I cannot send out a "quick" text; texting takes me forever.  I have no choice but to text using my right index finger, while holding the phone in my left hand. Overall, this works horribly for me, but it's all I can seem to to do.
+I cannot text with my two thumbs. I cannot text with one thumb.  I cannot hold a phone with _both_ hands in a way that keeps my thumbs free.  I cannot send out a "quick" text; texting takes me forever.  
+
+I have no choice but to text using my right index finger, while holding the phone in my left hand. Overall, this works horribly for me, but it's all I can seem to to do.
 
 Sometimes while texting, it takes me 3-4 tries to get **one word** typed properly. I recall once when in a car, I was asked by the driver to send a text to some friends we were on our way to meet. Between my lack of texting skills and the vibration of the car, I got so frustrated that I gave up and tossed my phone into the back seat.
 
