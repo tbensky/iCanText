@@ -12,7 +12,7 @@ I have no choice but to text using my right index finger, while holding the phon
 
 Sometimes while texting, it takes me 3-4 tries to get **one word** typed properly. I recall once when in a car, I was asked by the driver to send a text to some friends we were on our way to meet. Between my lack of texting skills and the vibration of the car, I got so frustrated that I gave up and tossed my phone into the back seat.
 
-The word suggestions rarely help me. Sometimes it will "correct" a word into 3 smaller nonsensical words with spaces in between!  I usually have to manually put in a `'` after `we` to get a `we'll` vs `well`. This takes me forever and is very frustrating.   I can't seem to get used to using the suggested words. I am so focused on what I am reaching out to with my index finger, that I never look at the word suggestion bar. I've tried gboard and tracing words on their keyboard. It's a cool idea, but didn't help at all.  
+The word suggestions rarely help me. Sometimes it will "correct" a word into 3 smaller nonsensical words with spaces in between!  I usually have to manually put in a `'` after `we` to get a `we'll` vs `well`. This takes me forever and is very frustrating.   I can't seem to get used to using the suggested words anyway, as I'm so focused on what I am reaching out to with my index finger, that I never look at the word suggestion bar. I've tried gboard and tracing words on their keyboard. It's a cool idea, but didn't help me at all.  
 
 Indeed, texting is a very frustrating but necessary and required task for me.
 
