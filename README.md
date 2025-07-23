@@ -4,11 +4,15 @@ Welcome to the official support page for **iCanText**, the smart, swaying keyboa
 
 ## 📖 The story behind iCanText
 
-I am a Gen X tech-savvy computer/phone/device user. I have no problems with the use and purpose of all of our devices. I own practically all of Apple's devices and use them daily.  Sometimes I laugh at how I have four Apple devices on me at any given time. That said, I cannot text.  I just can't do it.
+I am a Gen X tech-savvy computer/phone/device user. I have no problems with all of the devices we carry around. In my case, I own practically all of Apple's devices and use them daily.  Sometimes I laugh at how I have four Apple devices on me at any given time. That said, I cannot text.  I just can't do it.
 
-I cannot text with my two thumbs. I cannot text with one thumb.  I can't even seem to hold a phone with _both_ hands.  So, I mostly use my right index finger, while holding the phone in my left hand. This works generally horribly. 
+I cannot text with my two thumbs. I cannot text with one thumb.  I cannot hold a phone with _both_ hands in a way that keeps my thumbs free.  I cannot send out a "quick" text; texting takes me forever.  I have no choice but to text using my right index finger, while holding the phone in my left hand. Overall, this works horribly for me, but it's all I can seem to to do.
 
-Sometimes it takes me 3-4 tries to form **one single word** properly. Auto-correct rarely helps. Sometimes it auto-corrects a word into 3 smaller nonsensical words with spaces in between!  I usually have to manually put in a `'` after `we` to get a `we'll` vs `well`. This takes me forever.   gboard and tracing words on a keyboard didn't help.  Also, I simply cannot get used to using suggested words.  Texting is a very frustrating but necessary and required task.
+Sometimes while texting, it takes me 3-4 tries to get **one word** typed properly. I recall once when in a car, I was asked by the driver to send a text to some friends we were on our way to meet. Between my lack of texting skills and the vibration of the car, I got so frustrated that I gave up and tossed my phone into the back seat.
+
+The word suggestions rarely help me. Sometimes it will "correct" a word into 3 smaller nonsensical words with spaces in between!  I usually have to manually put in a `'` after `we` to get a `we'll` vs `well`. This takes me forever and is very frustrating.   I can't seem to get used to using the suggested words. I am so focused on what I am reaching out to with my index finger, that I never look at the word suggestion bar. I've tried gboard and tracing words on their keyboard. It's a cool idea, but didn't help at all.  
+
+Indeed, texting is a very frustrating but necessary and required task for me.
 
 Thus `iCanText` was born.  It has larger keys to make a larger target for my index finger.  It uses gestures more and has separate gesture-triggered keyboards for symbols and numbers.  Instead of predicting words, it predicts the _next letter_, which seems more useful for the letter-by-letter nature of texting.
 
@@ -25,18 +29,20 @@ To enable iCanText after installing:
 
 > 💡 Full access is optional. iCanText does **not** collect or track your keystrokes or personal data.
 
+To take a quick tour, run the app from the main screen on your phone.  Tap into the text-box and bring up the (usual)keyboard. Then tap on the globe 🌐 in the lower left corner to bring up the iCanText keyboard.  Try typing with _it_ now.  Swipe up for numbers and down for punctuation. Is it better?
 
 ## How iCanText can help you text
 
-Run the app from your phone's main screen to try it and configure iCanText the way you wish.  Helpers:
+After selecting the iCanText keyboard using the globe 🌐 in the lower left of your normal keyboard, iCanText can help you text in this way:
 
- - Keys are **larger**
- - From the main QWERTY keyboard, swipe down for symbols
- - Swipe up for numbers
- - On the symbols, note the shortcuts on the bottom row. They'll handle ending a sentence and the `'ll`, `'s`, `'r`, `'t`, `'m`, and `'ve` for you
- - Swipe right for a space, swipe right again for a `. ` (a period + space to end a sentence)
+ - The keys are **larger**
+ - From the main QWERTY keyboard, swipe down for symbols and up for numbers
+ - On the symbols keyboard, note the shortcuts on the bottom row. They'll handle texting those painful contractions on the English language, `'ll`, `'s`, `'r`, `'t`, `'m`, and `'ve` for you
+ - Swipe right for a space and swipe right again for a period + space to end a sentence
  - Swipe left for a backspace
  - Double swipe down to toggle UPPER/lower case 
+
+ With iCanText, you can finally say to yourself "I can text!"
 
 ## ❓ Frequently Asked Questions
 
