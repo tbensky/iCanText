@@ -4,19 +4,19 @@ Welcome to the official support page for **iCanText**, the smart, swaying keyboa
 
 ## 📖 The story behind iCanText
 
-I am a Gen X tech-savvy computer/phone/device user. I have no problems with all of the devices we carry around. In my case, I own practically all of Apple's devices and use them daily.  Sometimes I laugh at how I have four Apple devices on me at any given time. That said, I cannot text.  I just can't do it.
+I am a Gen X tech-savvy computer/phone/device user. That said, I cannot text.  I just can't do it.
 
-I cannot text with my two thumbs. I cannot text with one thumb.  I cannot hold a phone with _both_ hands in a way that keeps my thumbs free.  I cannot send out a "quick" text; texting takes me forever.   Sometimes I look at people who do that fast texting with their thumbs and marvel at their dexterity.  I simply cannot do this.
+I cannot text with my two thumbs. I cannot text with one thumb.  I cannot hold a phone with _both_ hands in a way that keeps my thumbs free.  I cannot send out a "quick" text; texting is very laborious for me.   Sometimes I look at people who do that fast texting with their thumbs and marvel at their dexterity.  I simply cannot do this.
 
 I have no choice but to text using my right index finger, while holding the phone in my left hand. Overall, this works horribly for me, but it's all I can seem to to do. 
 
 Sometimes while texting, it takes me 3-4 tries to get **one word** typed properly. I recall once when in a car, I was asked by the driver to send a text to some friends we were on our way to meet. Between my lack of texting skills and the vibration of the car, I got so frustrated that I gave up and tossed my phone into the back seat.
 
-The word suggestions rarely help me. Sometimes it will "correct" a word into 3 smaller nonsensical words with spaces in between!  I usually have to manually put in a `'` after `we` to get a `we'll` vs `well`. This takes me forever and is very frustrating.   I can't seem to get used to using the suggested words anyway, as I'm so focused on what I am reaching out to with my index finger, that I never look at the word suggestion bar. I've tried gboard and tracing words on their keyboard. It's a cool idea, but didn't help me at all.  
+The word suggestions built in to the keyboard rarely help me. Sometimes it will "correct" a word into 3 smaller nonsensical words, that I then have to delete.  The suggestion mechanism also usually misses when I need an apostrophe after something like `we` to get a `we'll` vs `well`. Again, I need to delete this all to continue and it takes me forever to put in the contraction myself.  This is very frustrating.   I can't seem to get used to using the suggested words anyway, as I'm so focused on what I am reaching out to with my index finger, that I never look at the word suggestion bar. I've tried gboard and tracing words on their keyboard. It's a cool idea, but didn't help me at all.  And for some reason, I don't like talking to my device (as in Siri, speed to text, etc.).
 
-Indeed, texting is a very frustrating but necessary and required task for me.
+Indeed for me, texting simiple remains a frustrating and laborious, but necessary and required task.
 
-Thus `iCanText` was born.  It has larger keys to make a larger target for my index finger.  It uses gestures more and has separate gesture-triggered keyboards for symbols and numbers.  Instead of predicting words, it predicts the _next letter_, which seems more useful for the letter-by-letter nature of texting.
+Thus `iCanText` was born.  It has larger keys to make a larger target for my index finger.  It uses gestures to help me along and has separate gesture-triggered keyboards for symbols and numbers.  Instead of predicting words, it predicts the _next letter_, which seems more useful for the letter-by-letter nature of texting.
 
 
 ## 🛠 Getting Started
