@@ -9,15 +9,23 @@ See it in the app-store: [https://apps.apple.com/us/app/icantext/id6748927092](h
 
 ## Dec 2025
 
-I've been using iCanText for about 3 months now, and have quickly become addicted to it (I will not go back to the stock keyboard). 
+I've been using iCanText for about 3 months now, and have quickly become addicted to it (I will not go back to the stock iOS keyboard). 
 
 iCanText is helping a lot with my texting difficulties (see below).  I find the right swipe for a space and left swipe for backspace gestures to be very natural and useful.
 
-For iOS 26 users, having the on-device LLM correct texts before sending is just awesome. (See the 🔧 key.) It produces beautifully worded and formatted text pretty much every time!  Something like `k. where are u? meet me at teh car a 10:30.` [sic] becomes `Okay.  Where are you? Meet me at car at 10:30.` Wow.
+For iOS 26 users, having the on-device LLM correct texts before sending is just awesome. (See the 🔧 key.) It produces beautifully worded and formatted text pretty much every time!  Something like:
+
+`k. where are u? meet me at teh [sic] car a 10:30.` 
+
+becomes 
+
+`Okay.  Where are you? Meet me at car the at 10:30.` 
+
+Wow.
 
 ## 📖 The story behind iCanText
 
-I am a Gen X tech-savvy computer/phone/device user. That said, I cannot text.  I just can't do it.
+I am a Gen-X tech-savvy computer/phone/device user. That said, I cannot text.  I just can't do it. Texting is a necessary part of our lives now, and is nothing but an <i>exercise in frustration</i> for me.
 
 I cannot text with my two thumbs. I cannot text with one thumb.  I cannot hold a phone with _both_ hands in a way that keeps my thumbs free.  I cannot send out a "quick" text; texting is very laborious for me.   Sometimes I look at people who do that fast texting with their thumbs and marvel at their dexterity.  I simply cannot do this.
 
