@@ -5,13 +5,11 @@ Welcome to the official support page for **iCanText**, the smart, swaying keyboa
 See it in the app-store: [https://apps.apple.com/us/app/icantext/id6748927092](https://apps.apple.com/us/app/icantext/id6748927092)
 
 
-# 📝 Blog
+# 📝 Update
 
-## Dec 2025
+I've been using iCanText for about 3 months now, and have quickly become use to it (I don't see myself going back to the stock iOS keyboard). 
 
-I've been using iCanText for about 3 months now, and have quickly become addicted to it (I will not go back to the stock iOS keyboard). 
-
-iCanText is helping a lot with my texting difficulties (see below).  I find the right swipe for a space and left swipe for backspace gestures to be very natural and useful. I really don't need the spacebar and backspace keys anymore.
+iCanText is helping a lot with my texting difficulties (see below).  I find the right and left swipe gestures for space and backspace to be very natural for those actions. I really don't need the spacebar or backspace keys.
 
 For iOS 26 users, having the on-device LLM correct texts before sending is <b>awesome</b>. (See the 🔧 key.) It produces beautifully worded and formatted text pretty much every time!  Something like:
 
@@ -21,23 +19,29 @@ becomes
 
 `Okay.  Where are you? Meet me at the car at 10:30.` 
 
-Wow.
+Wow. This is so helpful to me.
 
 ## 📖 The story behind iCanText
 
 I am a Gen-X tech-savvy computer/phone/device user. That said, I cannot text.  I just can't do it. Texting is a necessary part of our lives, and is nothing but an <i>exercise in frustration</i> for me.
 
-I cannot text with my two thumbs. I cannot text with one thumb.  I cannot hold a phone with _both_ hands in a way that keeps my thumbs free.  I cannot send out a "quick" text; texting is very laborious for me.   Sometimes I look at people who do that fast texting with their thumbs and marvel at their dexterity.  I simply cannot do this.
+I cannot text with my two thumbs. I cannot text with one thumb.  I cannot hold a phone with _both_ hands in a way that keeps my thumbs free.  I cannot send out a "quick" text; texting is very laborious and frustrating for me.   Sometimes I look at people who do that fast texting with their thumbs and marvel at their dexterity.  I simply cannot do this.
 
-I have no choice but to text using my right index finger, while holding the phone in my left hand. Overall, this works horribly for me, but it's all I can seem to do. 
+I have no choice but to text using my right index finger, while holding the phone in my left hand. Overall, this works horribly, but it's all I can seem to do. 
 
 Sometimes while texting, it takes me 3-4 tries to get **one word** typed properly. I recall once when in a car, I was asked by the driver to send a text to some friends we were on our way to meet. Between my lack of texting skills and the vibration of the car, I got so frustrated that I gave up and tossed my phone into the back seat.
 
-The word suggestions built in to the keyboard rarely help me and I feel pressured by them. Sometimes it will "correct" a word into 3 smaller nonsensical words, that I then have to delete.  The suggestion mechanism also usually misses when I need an apostrophe after something like `we` to get a `we'll` vs `well`. Again, I need to delete this all to continue and it takes me forever to put in the contraction myself.  This is very frustrating.   I can't seem to get used to using the suggested words anyway, as I'm so focused on what I am reaching out to with my index finger. I almost never look at the word suggestion bar. I've tried gboard and tracing words on their keyboard. It's a cool idea, but didn't help me at all.  And for some reason, I don't like talking to my device (as in Siri, speech to text, etc.).
+The word suggestions built in to the iOS keyboard rarely help and I feel pressured by them. Sometimes it will auto-correct a word into 3 smaller nonsensical words, that I then have to delete (and start over).  
 
-Indeed for me, texting simiple remains a frustrating and laborious, but necessary and required part of life.
+The suggestion mechanism usually misses when I need an apostrophe after something like `we` to get a `we'll` vs `well`. Again, I need to delete this all to continue and it takes me forever to put in the contraction myself.  This is very frustrating.   I can't seem to get used to using the suggested words anyway, as I'm so focused on what I am reaching out to with my index finger. I almost never look at the word suggestion bar. 
 
-Thus `iCanText` was born.  It has larger keys to make a larger target for my index finger.  It uses gestures to help me along and has separate gesture-triggered keyboards for symbols and numbers.  Instead of predicting words, it predicts the _next letter_, which seems more useful for the letter-by-letter nature of texting.
+I've tried gboard and tracing words on their keyboard. It's a cool idea, but didn't help me at all.  And for some reason, I don't like talking to my device (as in Siri, speech to text, etc.).
+
+Indeed for me, texting simiple remains a frustrating and laborious, but as I said, it's a necessary and required part of life, so I have to do something about it.
+
+### Enter: iCanText
+
+Thus `iCanText` was born.  It has larger keys to make a larger target for my index finger.  It uses gestures to help me along and has separate gesture-triggered keyboards for symbols and numbers.  Instead of predicting words, it predicts the _next letter_, which seems more useful for the letter-by-letter nature of texting. It has special contraction keys for `'s` and `'re`, etc.
 
 
 ## 🛠 Getting Started
