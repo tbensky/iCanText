@@ -19,7 +19,7 @@ For iOS 26 users, having the on-device LLM correct texts before sending is <b>aw
 
 becomes 
 
-`Okay.  Where are you? Meet me at car the at 10:30.` 
+`Okay.  Where are you? Meet me at the car at 10:30.` 
 
 Wow.
 
