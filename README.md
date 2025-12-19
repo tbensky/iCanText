@@ -5,6 +5,16 @@ Welcome to the official support page for **iCanText**, the smart, swaying keyboa
 See it in the app-store: [https://apps.apple.com/us/app/icantext/id6748927092](https://apps.apple.com/us/app/icantext/id6748927092)
 
 
+# Blog
+
+## Dec 2025
+
+I've been using iCanText for about 3 months now, and have quickly become addicted to it (I will not go back to the stock keyboard). 
+
+iCanText is helping a lot with my texting difficulties (see below).  I find the right swipe for a space and left swipe for backspace gestures to be very natural and useful.
+
+For iOS 26 users, having the on-device LLM correct texts before sending is just awesome. (See the 🔧 key.) It produces beautifully worded and formatted text pretty much every time!  Something like `k. where are u? meet me at teh car a 10:30.` [sic] becomes `Okay.  Where are you? Meet me at car at 10:30.` Wow.
+
 ## 📖 The story behind iCanText
 
 I am a Gen X tech-savvy computer/phone/device user. That said, I cannot text.  I just can't do it.
