@@ -16,7 +16,7 @@ To enable iCanText after installing:
 
 ## Important
 
-* Unusual: There are no spacebar or backspace keys.
+* Unusual: There is no spacebar. There is no backspace key.
 * Swipe right for a space. Swipe left for backspace.
 * Yes, the top row sways (the top row on a qwerty keyboard has one more key than the others).
 * iCanText **does not** collect or track your keystrokes or personal data.
