@@ -23,8 +23,8 @@ To enable iCanText after installing:
 * Swipe up for numbers. Swipe down for symbols.
 * Two finger swipe down to toggle UPPER/lower case. 
 * Use the 🔧 (fix it) key to fix up your text. 
-    * iOS 26 users: fixing is done using Apple's on-device LLM).
-    * pre-iOS 26 users: fixing still happens, but is not as robust.
+    * iOS 26 users: Very robust fixing is done using Apple's on-device LLM.
+    * pre-iOS 26 users: less robust fixing using some in-app based logic.
 
 ## Quick tour
 
