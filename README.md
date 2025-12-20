@@ -4,22 +4,40 @@ Welcome to the official support page for **iCanText**, the smart, swaying keyboa
 
 See it in the app-store: [https://apps.apple.com/us/app/icantext/id6748927092](https://apps.apple.com/us/app/icantext/id6748927092)
 
+# 🛠 Getting Started
 
-# 📝 Update
+To enable iCanText after installing:
 
-I've been using iCanText for about 3 months now, and have quickly become use to it (I don't see myself going back to the stock iOS keyboard). 
+1. Open **Settings** on your iPhone.
+2. Go to **General > Keyboard > Keyboards**.
+3. Tap **"Add New Keyboard…"**
+4. Select **iCanText** from the list.
+5. (Optional) Tap **iCanText > Allow Full Access** to enable all features.
 
-iCanText is helping a lot with my texting difficulties (see below).  I find the right and left swipe gestures for space and backspace to be very natural for those actions. I really don't need the spacebar or backspace keys.
+## Important
 
-For iOS 26 users, having the on-device LLM correct texts before sending is <b>awesome</b>. (See the 🔧 key.) It produces beautifully worded and formatted text pretty much every time!  Something like:
+* Swipe right for a space
+* Swift left for backspace
+* There is no spacebar or backspace key
+* The swaying top row is not a bug.  The top row on a qwerty keyboard has one more key than the others. It sways here to give you full access to all keys
+* iCanText **does not** collect or track your keystrokes or personal data.
 
-`k. where are u? meet me at teh [sic] car a 10:30.` 
+## Quick tour
 
-becomes 
+To take a quick tour, run the app from the main screen on your phone.  Tap into the text-box and bring up the usual iOS keyboard. Then tap on the globe 🌐 in the lower left corner to bring up the iCanText keyboard.  Try typing with _it_ now.  Swipe up for numbers and down for punctuation. Can you text better?
 
-`Okay.  Where are you? Meet me at the car at 10:30.` 
+## How iCanText can help you text
 
-Wow. This is so helpful to me.
+After selecting the iCanText keyboard using the globe 🌐 in the lower left of your normal keyboard, iCanText can help you text in this way:
+
+ - The keys are **larger**
+ - From the main QWERTY keyboard, swipe down for symbols and up for numbers
+ - On the symbols keyboard, note the shortcuts on the bottom row. They'll handle texting those painful contractions on the English language, `'ll`, `'s`, `'r`, `'t`, `'m`, and `'ve` for you
+ - Swipe right for a space and swipe right again for a period + space to end a sentence
+ - Swipe left for a backspace
+ - Double swipe down to toggle UPPER/lower case 
+
+ With iCanText, you can finally say to yourself "I can text!"
 
 ## 📖 The story behind iCanText
 
@@ -44,32 +62,21 @@ Indeed for me, texting simiple remains a frustrating and laborious, but as I sai
 Thus `iCanText` was born.  It has larger keys to make a larger target for my index finger.  It uses gestures to help me along and has separate gesture-triggered keyboards for symbols and numbers.  Instead of predicting words, it predicts the _next letter_, which seems more useful for the letter-by-letter nature of texting. It has special contraction keys for `'s` and `'re`, etc.
 
 
-## 🛠 Getting Started
+## 📝 Update
 
-To enable iCanText after installing:
+I've (the developer) been using iCanText for about 3 months now, and have quickly become use to it (I don't see myself going back to the stock iOS keyboard). 
 
-1. Open **Settings** on your iPhone.
-2. Go to **General > Keyboard > Keyboards**.
-3. Tap **"Add New Keyboard…"**
-4. Select **iCanText** from the list.
-5. (Optional) Tap **iCanText > Allow Full Access** to enable all features.
+iCanText is helping a lot with the texting difficulties I mentioned.  I find the right and left swipe gestures for space and backspace to be very natural for those actions. I really don't need the spacebar or backspace keys.
 
-> 💡 Full access is optional. iCanText does **not** collect or track your keystrokes or personal data.
+For iOS 26 users, having the on-device LLM correct texts before sending is <b>awesome</b>. (See the 🔧 key.) It produces beautifully worded and formatted text pretty much every time!  Something like:
 
-To take a quick tour, run the app from the main screen on your phone.  Tap into the text-box and bring up the (usual)keyboard. Then tap on the globe 🌐 in the lower left corner to bring up the iCanText keyboard.  Try typing with _it_ now.  Swipe up for numbers and down for punctuation. Can you text better?
+`k. where are u? meet me at teh [sic] car a 10:30.` 
 
-## How iCanText can help you text
+becomes 
 
-After selecting the iCanText keyboard using the globe 🌐 in the lower left of your normal keyboard, iCanText can help you text in this way:
+`Okay.  Where are you? Meet me at the car at 10:30.` 
 
- - The keys are **larger**
- - From the main QWERTY keyboard, swipe down for symbols and up for numbers
- - On the symbols keyboard, note the shortcuts on the bottom row. They'll handle texting those painful contractions on the English language, `'ll`, `'s`, `'r`, `'t`, `'m`, and `'ve` for you
- - Swipe right for a space and swipe right again for a period + space to end a sentence
- - Swipe left for a backspace
- - Double swipe down to toggle UPPER/lower case 
-
- With iCanText, you can finally say to yourself "I can text!"
+Wow. This is so helpful to me.
 
 ## ❓ Frequently Asked Questions
 
