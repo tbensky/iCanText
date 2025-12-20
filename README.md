@@ -44,7 +44,7 @@ After selecting the iCanText keyboard using the globe 🌐 in the lower left of 
 
 ## 📖 The story behind iCanText
 
-I am a Gen-X tech-savvy computer/phone/device user. That said, I cannot text.  I just can't do it. Texting is a necessary part of our lives, and is nothing but an <i>exercise in frustration</i> for me.
+I am a Gen-X tech-savvy computer, phone, and device user. That said, I cannot text.  I just can't do it. Texting is a necessary part of our lives, and is nothing but an <i>exercise in frustration</i> for me.
 
 I cannot text with my two thumbs. I cannot text with one thumb.  I cannot hold a phone with _both_ hands in a way that keeps my thumbs free.  I cannot send out a "quick" text; texting is very laborious and frustrating for me.   Sometimes I look at people who do that fast texting with their thumbs and marvel at their dexterity.  I simply cannot do this.
 
