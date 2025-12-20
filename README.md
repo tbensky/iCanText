@@ -18,7 +18,7 @@ To enable iCanText after installing:
 
 * Unusual: There are no spacebar or backspace keys
 * Swipe right for a space. Swipe left for backspace.
-* Yes, the top row sways. The top row on a qwerty keyboard has one more key than the others.
+* Yes, the top row sways (the top row on a qwerty keyboard has one more key than the others).
 * iCanText **does not** collect or track your keystrokes or personal data.
 * Swipe up for numbers. Swipe down for symbols.
 * Two finger swipe down to toggle UPPER/lower case 
