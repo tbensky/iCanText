@@ -16,15 +16,19 @@ To enable iCanText after installing:
 
 ## Important
 
-* Swipe right for a space
-* Swift left for backspace
-* There is no spacebar or backspace key
-* The swaying top row is not a bug.  The top row on a qwerty keyboard has one more key than the others. It sways here to give you full access to all keys
+* Unusual: There are no spacebar or backspace keys
+* Swipe right for a space. Swipe left for backspace.
+* Yes, the top row sways. The top row on a qwerty keyboard has one more key than the others.
 * iCanText **does not** collect or track your keystrokes or personal data.
+* Swipe up for numbers. Swipe down for symbols.
+* Two finger swipe down to toggle UPPER/lower case 
 
 ## Quick tour
 
-To take a quick tour, run the app from the main screen on your phone.  Tap into the text-box and bring up the usual iOS keyboard. Then tap on the globe 🌐 in the lower left corner to bring up the iCanText keyboard.  Try typing with _it_ now.  Swipe up for numbers and down for punctuation. Can you text better?
+To take a quick tour, run the app from the main screen on your phone.  
+* Tap into the text-box and bring up the usual iOS keyboard. 
+* Then tap on the globe 🌐 in the lower left corner to bring up the iCanText keyboard.  
+* Try typing with _it_ now.  Swipe up for numbers and down for punctuation. Can you text better?
 
 ## How iCanText can help you text
 
@@ -37,7 +41,6 @@ After selecting the iCanText keyboard using the globe 🌐 in the lower left of 
  - Swipe left for a backspace
  - Double swipe down to toggle UPPER/lower case 
 
- With iCanText, you can finally say to yourself "I can text!"
 
 ## 📖 The story behind iCanText
 
@@ -60,6 +63,8 @@ Indeed for me, texting simiple remains a frustrating and laborious, but as I sai
 ### Enter: iCanText
 
 Thus `iCanText` was born.  It has larger keys to make a larger target for my index finger.  It uses gestures to help me along and has separate gesture-triggered keyboards for symbols and numbers.  Instead of predicting words, it predicts the _next letter_, which seems more useful for the letter-by-letter nature of texting. It has special contraction keys for `'s` and `'re`, etc.
+
+With iCanText, you can finally say to yourself "I can text!"
 
 
 ## 📝 Update
