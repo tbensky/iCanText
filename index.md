@@ -1,6 +1,6 @@
 # Privacy Policy for iCanText
 
-**Effective Date: 21-July-2025**
+**Effective Date: 05-July-2026**
 
 Thank you for using **iCanText**, a custom iOS keyboard built for clarity and ease of use. This privacy policy explains how we handle your data — which is simple: we don’t collect any.
 

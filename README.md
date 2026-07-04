@@ -18,7 +18,7 @@ To enable iCanText after installing:
 
 * Unusual: There is no spacebar. There is no backspace key.
 * Swipe right for a space. Swipe left for backspace.
-* Yes, the top row sways (the top row on a qwerty keyboard has one more key than the others).
+* Yes, the top row sways. It allows us to include a full top QWERTY row.
 * Swipe up for numbers. Swipe down for symbols.
 * Two finger swipe down to toggle UPPER/lower case. 
 * Use the 🔧 (fix it) key to fix up your text. 
@@ -74,7 +74,7 @@ With iCanText, you can finally say to yourself "I can text!"
 
 ## 📝 Update
 
-I've (the developer) been using iCanText for about 3 months now, and have quickly become use to it (I don't see myself going back to the stock iOS keyboard). 
+I've (the developer) been using iCanText for about 10 months now, and have quickly become use to it (I don't see myself going back to the stock iOS keyboard).  
 
 iCanText is helping a lot with the texting difficulties I mentioned.  I find the right and left swipe gestures for space and backspace to be very natural for those actions. I really don't need the spacebar or backspace keys.
 
