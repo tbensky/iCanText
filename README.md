@@ -39,7 +39,7 @@ To take a quick tour, run the app from the main screen on your phone.
 
 Yes! The top row sways.  For maximum sizing of **all** keys, the `O` and `P` must share their visibility.
 
-<img src=https://github.com/tbensky/iCanText/blob/main/Images/sway.gif alt="the swaying keyboard">
+<img src=https://github.com/tbensky/iCanText/blob/main/Images/sway.gif width=200 alt="the swaying keyboard">
 
 
 ## Screenshots
