@@ -37,7 +37,8 @@ To take a quick tour, run the app from the main screen on your phone.
 
 ## Screenshots
 
-<img src=https://github.com/tbensky/iCanText/blob/main/Images/larger_keys-portrait.png width=200>
+<img src=https://github.com/tbensky/iCanText/blob/main/Images/larger_keys-portrait.png width=200 alt="larger keys">
+<img src=https://github.com/tbensky/iCanText/blob/main/Images/numbers-portrait.png width=200 alt="numbers keyboard">
 
 https://github.com/tbensky/iCanText/blob/main/Images/larger_keys-portrait.png
 
