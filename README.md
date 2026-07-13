@@ -37,9 +37,9 @@ To take a quick tour, run the app from the main screen on your phone.
 
 ## Screenshots
 
-<table width=100% nowrap>
+<table width=100%>
    <tr>
-      <td>
+      <td nowrap>
 <img src=https://github.com/tbensky/iCanText/blob/main/Images/larger_keys-portrait.png width=200 alt="larger keys">
 <img src=https://github.com/tbensky/iCanText/blob/main/Images/numbers-portrait.png width=200 alt="numbers keyboard">
 <img src=https://github.com/tbensky/iCanText/blob/main/Images/predict-portrait.png width=200 alt="next letter prediction">
