@@ -35,6 +35,13 @@ To take a quick tour, run the app from the main screen on your phone.
 * Then tap on the globe 🌐 in the lower left corner to bring up the iCanText keyboard.  
 * Try typing with _it_ now.  Swipe up for numbers and down for punctuation. Can you text better?
 
+## It sways
+
+Yes! The top row sways.  For maximum sizing of **all** keys, the `O` and `P` must share their visibility.
+
+<img src=https://github.com/tbensky/iCanText/blob/main/Images/sway.gif alt="symbols keyboard, including one-key contractions">
+
+
 ## Screenshots
 
 <table width=100%>
