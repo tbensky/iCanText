@@ -35,6 +35,12 @@ To take a quick tour, run the app from the main screen on your phone.
 * Then tap on the globe 🌐 in the lower left corner to bring up the iCanText keyboard.  
 * Try typing with _it_ now.  Swipe up for numbers and down for punctuation. Can you text better?
 
+## Screenshots
+
+![Screenshot of iCanText keyboard](https://github.com/tbensky/iCanText/blob/main/Images/larger_keys-portrait.png)
+
+https://github.com/tbensky/iCanText/blob/main/Images/larger_keys-portrait.png
+
 ## How iCanText can help you text
 
 After selecting the iCanText keyboard using the globe 🌐 in the lower left of your normal keyboard, iCanText can help you text in this way:
