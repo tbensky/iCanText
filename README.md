@@ -37,7 +37,17 @@ To take a quick tour, run the app from the main screen on your phone.
 
 ## Screenshots
 
-![Screenshot of iCanText keyboard](https://github.com/tbensky/iCanText/blob/main/Images/larger_keys-portrait.png)
+<table width=100%>
+   <tr>
+      <td nowrap>
+<img src=https://github.com/tbensky/iCanText/blob/main/Images/larger_keys-portrait.png width=200 alt="larger keys">
+<img src=https://github.com/tbensky/iCanText/blob/main/Images/numbers-portrait.png width=200 alt="numbers keyboard">
+<img src=https://github.com/tbensky/iCanText/blob/main/Images/predict-portrait.png width=200 alt="next letter prediction">
+<img src=https://github.com/tbensky/iCanText/blob/main/Images/proofread-portrait.png width=200 alt="Correct text with on device LLM">
+<img src=https://github.com/tbensky/iCanText/blob/main/Images/symbols-portrait.png width=200 alt="symbols keyboard, including one-key contractions">
+      </td>
+   </tr>
+</table>
 
 https://github.com/tbensky/iCanText/blob/main/Images/larger_keys-portrait.png
 
