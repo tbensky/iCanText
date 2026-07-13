@@ -1,6 +1,6 @@
 # iCanText – Support Page
 
-Welcome to the official support page for **iCanText**, the smart, swaying keyboard with large, easy-to-tap keys.
+Welcome to the official support page for **iCanText**, the swaying keyboard with large, easy-to-tap keys.
 
 See it in the app-store: [https://apps.apple.com/us/app/icantext/id6748927092](https://apps.apple.com/us/app/icantext/id6748927092)
 
@@ -16,9 +16,9 @@ To enable iCanText after installing:
 
 ## Important
 
-* Unusual: There is no spacebar. There is no backspace key.
+* **Unusual:** There is no spacebar. There is no backspace key.
 * Swipe right for a space. Swipe left for backspace.
-* Yes, the top row sways. It allows us to include a full top QWERTY row.
+* Yes, the top row sways. It allows us to include a full top QWERTY row while maximizing the sizes of all keys.
 * Swipe up for numbers. Swipe down for symbols.
 * Two finger swipe down to toggle UPPER/lower case. 
 * Use the 🔧 (fix it) key to fix up your text. 
@@ -49,8 +49,6 @@ To take a quick tour, run the app from the main screen on your phone.
    </tr>
 </table>
 
-https://github.com/tbensky/iCanText/blob/main/Images/larger_keys-portrait.png
-
 ## How iCanText can help you text
 
 After selecting the iCanText keyboard using the globe 🌐 in the lower left of your normal keyboard, iCanText can help you text in this way:
@@ -77,13 +75,13 @@ The word suggestions built in to the iOS keyboard rarely help and I feel pressur
 
 The suggestion mechanism usually misses when I need an apostrophe after something like `we` to get a `we'll` vs `well`. Again, I need to delete this all to continue and it takes me forever to put in the contraction myself.  This is very frustrating.   I can't seem to get used to using the suggested words anyway, as I'm so focused on what I am reaching out to with my index finger. I almost never look at the word suggestion bar. 
 
-I've tried gboard and tracing words on their keyboard. It's a cool idea, but didn't help me at all.  And for some reason, I don't like talking to my device (as in Siri, speech to text, etc.).
+I've tried gboard and tracing words on their keyboard. It's a cool idea, but didn't help me at all.  And for some reason, I don't like talking to my device (as in Siri, speech to text, Whisper, etc.).
 
-Indeed for me, texting simiple remains a frustrating and laborious, but as I said, it's a necessary and required part of life, so I have to do something about it.
+Indeed for me, texting simiple remains a frustrating and laborious, but as I said, it's a necessary and required part of life. For years, it wasn't improving form me either.  So, I decided to do something about it.
 
 ### Enter: iCanText
 
-Thus `iCanText` was born.  It has larger keys to make a larger target for my index finger.  It uses gestures to help me along and has separate gesture-triggered keyboards for symbols and numbers.  Instead of predicting words, it predicts the _next letter_, which seems more useful for the letter-by-letter nature of texting. It has special contraction keys for `'s` and `'re`, etc.
+Thus `iCanText` was born.  It has larger keys to make a larger target for my index finger.  It uses gestures to help me along and has separate gesture-triggered keyboards for symbols and numbers.  Instead of predicting words, it predicts the _next letter_, which seems more useful for the letter-by-letter nature of texting. It has keys for one tap contractions like `'s` and `'re`, etc.
 
 With iCanText, you can finally say to yourself "I can text!"
 
