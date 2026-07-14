@@ -135,5 +135,4 @@ For help, feedback, or feature requests:
 
 ---
 
-Thanks for using **iCanText**!
 
