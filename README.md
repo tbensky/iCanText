@@ -18,12 +18,11 @@ To enable iCanText after installing:
 
 * **Unusual:** There is no spacebar. There is no backspace key.
 * Swipe right for a space. Swipe left for backspace.
-* Yes, the top row sways. It allows us to include a full top QWERTY row while maximizing the sizes of all keys.
+* Yes, the top row sways. It allows us to include a full top QWERTY row while maximizing the sizes of all keys. (The `Q` and `P` must share visibility.)
 
-  <center>
+  <p align="center">
      <img src=https://github.com/tbensky/iCanText/blob/main/Images/sway-phone-frame.gif width=250 alt="the swaying keyboard">
-
-  </center>
+  </p>
 * Swipe up for numbers. Swipe down for symbols.
 * Two finger swipe down to toggle UPPER/lower case. 
 * Use the 🔧 (fix it) key to fix up your text. 
@@ -39,13 +38,6 @@ To take a quick tour, run the app from the main screen on your phone.
 * Tap into the text-box and bring up the usual iOS keyboard. 
 * Then tap on the globe 🌐 in the lower left corner to bring up the iCanText keyboard.  
 * Try typing with _it_ now.  Swipe up for numbers and down for punctuation. Can you text better?
-
-## It sways
-
-Yes! The top row sways.  For maximum sizing of **all** keys, the `Q` and `P` must share their visibility.
-
-<img src=https://github.com/tbensky/iCanText/blob/main/Images/sway-phone-frame.gif width=300 alt="the swaying keyboard">
-
 
 ## Screenshots
 
