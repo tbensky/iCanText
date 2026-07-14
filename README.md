@@ -19,6 +19,11 @@ To enable iCanText after installing:
 * **Unusual:** There is no spacebar. There is no backspace key.
 * Swipe right for a space. Swipe left for backspace.
 * Yes, the top row sways. It allows us to include a full top QWERTY row while maximizing the sizes of all keys.
+
+  <center>
+     <img src=https://github.com/tbensky/iCanText/blob/main/Images/sway-phone-frame.gif width=250 alt="the swaying keyboard">
+
+  </center>
 * Swipe up for numbers. Swipe down for symbols.
 * Two finger swipe down to toggle UPPER/lower case. 
 * Use the 🔧 (fix it) key to fix up your text. 
