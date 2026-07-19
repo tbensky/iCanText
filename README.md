@@ -18,7 +18,11 @@ To enable iCanText after installing:
 
 * **Unusual:** There is no spacebar. There is no backspace key.
 * Swipe right for a space. Swipe left for backspace.
-* Yes, the top row sways. It allows us to include a full top QWERTY row while maximizing the sizes of all keys.
+* Yes, the top row sways. It allows us to include a full top QWERTY row while maximizing the sizes of all keys. (The `Q` and `P` must share visibility.)
+
+  <p align="center">
+     <img src=https://github.com/tbensky/iCanText/blob/main/Images/sway-phone-frame.gif width=250 alt="the swaying keyboard">
+  </p>
 * Swipe up for numbers. Swipe down for symbols.
 * Two finger swipe down to toggle UPPER/lower case. 
 * Use the 🔧 (fix it) key to fix up your text. 
@@ -35,13 +39,6 @@ To take a quick tour, run the app from the main screen on your phone.
 * Then tap on the globe 🌐 in the lower left corner to bring up the iCanText keyboard.  
 * Try typing with _it_ now.  Swipe up for numbers and down for punctuation. Can you text better?
 
-## It sways
-
-Yes! The top row sways.  For maximum sizing of **all** keys, the `O` and `P` must share their visibility.
-
-<img src=https://github.com/tbensky/iCanText/blob/main/Images/sway-phone-frame.gif width=200 alt="the swaying keyboard">
-
-
 ## Screenshots
 
 <table width=100%>
@@ -50,7 +47,10 @@ Yes! The top row sways.  For maximum sizing of **all** keys, the `O` and `P` mus
 <img src=https://github.com/tbensky/iCanText/blob/main/Images/larger_keys-portrait.png width=200 alt="larger keys">
 <img src=https://github.com/tbensky/iCanText/blob/main/Images/numbers-portrait.png width=200 alt="numbers keyboard">
 <img src=https://github.com/tbensky/iCanText/blob/main/Images/predict-portrait.png width=200 alt="next letter prediction">
-<img src=https://github.com/tbensky/iCanText/blob/main/Images/proofread-portrait.png width=200 alt="Correct text with on device LLM">
+      </td>
+   </tr>
+  <tr>
+  <td><img src=https://github.com/tbensky/iCanText/blob/main/Images/proofread-portrait.png width=200 alt="Correct text with on device LLM">
 <img src=https://github.com/tbensky/iCanText/blob/main/Images/symbols-portrait.png width=200 alt="symbols keyboard, including one-key contractions">
       </td>
    </tr>
@@ -135,5 +135,4 @@ For help, feedback, or feature requests:
 
 ---
 
-Thanks for using **iCanText**!
 
