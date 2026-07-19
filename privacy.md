@@ -51,7 +51,7 @@ iCanText does not knowingly collect data from children — or anyone, for that m
 If you have any questions, feel free to reach out:
 
 **Email**: tbensky@gmail.com  
-**Support Page**: [https://github.com/tbensky/icantext](ttps://github.com/tbensky/icantext])
+**Support Page**: [https://github.com/tbensky/icantext](https://github.com/tbensky/icantext)
 
 ---
 
